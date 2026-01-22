@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="All in one reborn bd" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-cricket-my.png",Join Telegram
-https://raw.githubusercontent.com/ratulxhasan/allm3u/refs/heads/main/loop.m3u8
+https://raw.githubusercontent.com/aiorbd-video/allonebdplaylist/refs/heads/main/allinone.m3u
 
 #EXTINF:-1 tvg-id="Astro.Cricket.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/astro-cricket-my.png" group-title="All Sports",Astro Cricket
 https://zekonew.giokko.ru/zeko/premium370/mono.m3u8|Referer=https://epicplayplay.cfd/&Origin=https://epicplayplay.cfd
